@@ -10,7 +10,7 @@ These are the local dependencies that are needed for development,
 
 Get this repo to your local machine using,
 ```shell
-$ git clone https://github.com/hrishikeshpaul/portfolio-template.git
+$ git clone https://github.com/Cadufc91/To-do-List.git
 ```
 
 ### Setup 
@@ -18,7 +18,7 @@ $ git clone https://github.com/hrishikeshpaul/portfolio-template.git
 To install the node packages used in the project:
 
 ```shell
-$ cd portfolio-template
+$ cd my-app
 $ npm install
 ```
 
